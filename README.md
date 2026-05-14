@@ -4,6 +4,11 @@
 [![Groq](https://img.shields.io/badge/LLM-Groq-orange.svg)](https://groq.com/)
 [![Ollama](https://img.shields.io/badge/Embedder-Ollama-lightgrey.svg)](https://ollama.com/)
 
+## 📖 Project Overview
+The **Modular RAG System** is an expert-grade AI pipeline designed to transform static documents into a dynamic, searchable, and structurally-aware knowledge base. By combining **Semantic Vector Search** with **Graph-based Relationship Mapping (GraphRAG)**, it enables AI agents to not only find relevant information but also understand the complex connections between entities. 
+
+This project bridges the gap between simple chat-over-PDF scripts and production-ready AI architectures, featuring modular provider abstractions, automated evaluation (RAGAS), and high-performance execution via Groq.
+
 ## 🏗️ System Architecture
 ![System Architecture](architecture_diagram.png)
 
@@ -74,13 +79,6 @@ python3 simple_rag.py --visualize-graph
 # Generate Embedding Clusters (PCA)
 python3 visualizer.py
 ```
-
-## 📂 Architecture
-The system follows a modular design pattern:
-- `modules/generation`: LLM provider abstraction.
-- `modules/embeddings`: Embedding provider abstraction.
-- `modules/retrieval`: Advanced logic (Graph, Multi-Query, Re-ranker).
-- `modules/evaluation`: RAGAS benchmarking logic.
 
 # RAG Development Log: From Scratch to Expertise
 

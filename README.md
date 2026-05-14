@@ -79,5 +79,3 @@ The system follows a modular design pattern:
 - `modules/retrieval`: Advanced logic (Graph, Multi-Query, Re-ranker).
 - `modules/evaluation`: RAGAS benchmarking logic.
 
----
-**Developed as a masterclass project in advanced RAG engineering.**

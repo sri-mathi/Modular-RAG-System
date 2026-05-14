@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+pypdf
+python-dotenv
+ragas
+pandas
+tiktoken
+langchain-ollama
+matplotlib
+scikit-learn
+seaborn

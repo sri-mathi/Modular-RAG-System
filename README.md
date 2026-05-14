@@ -88,6 +88,5 @@ The system follows a modular design pattern:
 - [ ] **Agentic Retrieval**: Implement **Self-RAG** where the agent critiques its own retrieved context.
 - [ ] **Streamlit Dashboard**: A professional UI for real-time query visualization and evaluation tracking.
 
----
-**Developed with focus on Clean Architecture, Precision, and Performance.**
+
 

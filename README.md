@@ -12,6 +12,9 @@ This project bridges the gap between simple chat-over-PDF scripts and production
 ## 🏗️ System Architecture
 ![System Architecture](architecture_diagram.png)
 
+## ⚡ Product Interface
+![RAG Chat Preview](RAG_Screenshot.png)
+
 This is not just another RAG script. This is a **Modular, High-Performance RAG Architecture** designed for precision, speed, and structural intelligence.
 
 ## 🌟 Expert Features
@@ -82,7 +85,7 @@ python3 visualizer.py
 
 # RAG Development Log: From Scratch to Expertise
 
-This document serves as a comprehensive log of the development of our Modular RAG system. Each phase represents a leap in complexity and expertise.
+This serves as a comprehensive log of the development of our Modular RAG system. Each phase represents a leap in complexity and expertise.
 
 ---
 

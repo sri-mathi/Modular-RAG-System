@@ -4,6 +4,9 @@
 [![Groq](https://img.shields.io/badge/LLM-Groq-orange.svg)](https://groq.com/)
 [![Ollama](https://img.shields.io/badge/Embedder-Ollama-lightgrey.svg)](https://ollama.com/)
 
+## 🏗️ System Architecture
+![System Architecture](architecture_diagram.png)
+
 This is not just another RAG script. This is a **Modular, High-Performance RAG Architecture** designed for precision, speed, and structural intelligence.
 
 ## 🌟 Expert Features

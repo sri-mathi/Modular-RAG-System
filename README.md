@@ -82,3 +82,12 @@ The system follows a modular design pattern:
 - `modules/retrieval`: Advanced logic (Graph, Multi-Query, Re-ranker).
 - `modules/evaluation`: RAGAS benchmarking logic.
 
+## 🗺️ Future Roadmap
+- [ ] **Hybrid Cloud Graph**: Migrate from local NetworkX to **Neo4j** for massive-scale relationship mapping.
+- [ ] **Advanced Guardrails**: Integrate **NeMo Guardrails** or **Llama Guard** for production-grade safety.
+- [ ] **Agentic Retrieval**: Implement **Self-RAG** where the agent critiques its own retrieved context.
+- [ ] **Streamlit Dashboard**: A professional UI for real-time query visualization and evaluation tracking.
+
+---
+**Developed with focus on Clean Architecture, Precision, and Performance.**
+

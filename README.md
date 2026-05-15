@@ -10,7 +10,7 @@ The **Modular RAG System** is an expert-grade AI pipeline designed to transform 
 This project bridges the gap between simple chat-over-PDF scripts and production-ready AI architectures, featuring modular provider abstractions, automated evaluation (RAGAS), and high-performance execution via Groq.
 
 ## 🏗️ System Architecture
-![System Architecture](architecture_diagram.png)
+![System Architecture](Architecture.png)
 
 ## ⚡ Product Interface
 ![RAG Chat Preview](RAG_Screenshot.png)
